@@ -35,6 +35,9 @@ Here are the detailed steps and sample code to create a FHIR API service in Azur
 3. **Import Data Using `$import` API**:
    - Use the following sample code to import data into the FHIR service.
 
+Follow these steps to configure FHIR API for import
+(https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/configure-import-data)
+
 ```python
 import requests
 import json
