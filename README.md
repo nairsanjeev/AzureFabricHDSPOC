@@ -1,4 +1,4 @@
-Here are the detailed steps and sample code to create a FHIR API service in Azure and ingest Synthea data using the `$import` API.
+Here are the detailed steps and sample code to create a FHIR API service in Azure and ingest Synthea data using the `$import` API. Further you can follow the steps for Fabric HDS set up
 
 ### Step 1: Create a FHIR Service in Azure
 
