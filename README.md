@@ -26,10 +26,7 @@ Here are the detailed steps and sample code to create a FHIR API service in Azur
 
 1. **Generate Synthea Data**:
    - Download and run the Synthea tool to generate synthetic patient data in FHIR format.
-   -[ Example command to generate data:
-     ```bash
-     ./run_synthea -p 1000
-     ```](https://github.com/synthetichealth/synthea/wiki/Basic-Setup-and-Running)
+   (https://github.com/synthetichealth/synthea/wiki/Basic-Setup-and-Running)
 
 2. **Prepare Data for Import**:
    - Convert the generated data into NDJSON format if not already.
